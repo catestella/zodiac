@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	background: url("../img/stars1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	font-family:'Syncopate', sans-serif;
+}
+
+.form-group h1 {
+	padding-top: 20px;
+	animation-name: lightSpeedIn;
+    animation-duration: 1s;
+}
+
